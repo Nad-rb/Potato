@@ -1,0 +1,32 @@
+{
+  "name": "botmusic",
+  "version": "1.0.0",
+  "description": "the source code of the PotatoBot.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Nad-rb",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/opus": "^0.4.0",
+    "ascii-table": "^0.0.9",
+    "bufferutil": "^4.0.3",
+    "common-tags": "^1.8.0",
+    "discord.js": "^12.5.1",
+    "erlpack": "^0.1.3",
+    "ffmpeg-static": "^4.2.8",
+    "fs": "^0.0.2",
+    "libsodium-wrappers": "^0.7.8",
+    "lyrics-finder": "^21.7.0",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "node-superfetch": "^0.1.11",
+    "opusscript": "^0.0.8",
+    "sodium": "^3.0.2",
+    "systeminformation": "^5.6.7",
+    "utf-8-validate": "^5.0.4",
+    "zlib-sync": "^0.1.7",
+    "distube": "^2.8.11"
+  }
+}
